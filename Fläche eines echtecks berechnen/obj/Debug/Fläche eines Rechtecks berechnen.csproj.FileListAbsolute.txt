@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\bin\Debug\Fläche eines echtecks berechnen.exe.config
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\bin\Debug\Fläche eines echtecks berechnen.exe
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\bin\Debug\Fläche eines echtecks berechnen.pdb
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche eines Rechtecks berechnen.csprojAssemblyReference.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche_eines_echtecks_berechnen.FlächeEinesRechtecksBenennen.resources
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche_eines_echtecks_berechnen.Properties.Resources.resources
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche eines Rechtecks berechnen.csproj.GenerateResource.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche eines Rechtecks berechnen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche eines echtecks berechnen.exe
+C:\Users\vmadmin\Documents\OOP-Exercises\Fläche eines echtecks berechnen\obj\Debug\Fläche eines echtecks berechnen.pdb
