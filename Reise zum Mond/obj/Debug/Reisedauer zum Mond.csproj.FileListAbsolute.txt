@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\bin\Debug\Reisedauer zum Mond.exe.config
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\bin\Debug\Reisedauer zum Mond.exe
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\bin\Debug\Reisedauer zum Mond.pdb
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer zum Mond.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer_zum_Mond.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer zum Mond.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer zum Mond.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer zum Mond.exe
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer zum Mond.pdb
+C:\Users\vmadmin\source\repos\Reisedauer zum Mond\obj\Debug\Reisedauer_zum_Mond.ReisedauerZumMond.resources
