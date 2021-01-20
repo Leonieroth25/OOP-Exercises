@@ -12,7 +12,8 @@ namespace Flaeche_eines_Rechtecks_berechnen
 {
 		public partial class Form1 : Form
 		{
-			private Berechnung _berechnung = new Berechnung();
+			private Rechteck _rechteck = new Rechteck();
+			
 			public Form1()
 			{
 				InitializeComponent();
@@ -30,14 +31,15 @@ namespace Flaeche_eines_Rechtecks_berechnen
 
 				try
 				{
-					_berechnung.Berechnungen(rhoehe, rbreite);
+					txtAusgabe.Text  = _rechteck.BerechneFlaeche(rhoehe, rbreite).ToString();
+				
 				}
 				catch (Exception ex)
 				{
+					MessageBox.Show("Fehler passiert: " + ex.Message); 
 				}
-				txtAusgabe.Text = _berechnung.Rechteckflaeche.ToString();
 			}
-
+			
 		}
 	}
 
