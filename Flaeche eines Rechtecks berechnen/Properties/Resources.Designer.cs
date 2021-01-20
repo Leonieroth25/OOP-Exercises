@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fläche_eines_echtecks_berechnen.Properties
+namespace Flaeche_eines_Rechtecks_berechnen.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Fläche_eines_echtecks_berechnen.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Fläche_eines_echtecks_berechnen.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Flaeche_eines_Rechtecks_berechnen.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

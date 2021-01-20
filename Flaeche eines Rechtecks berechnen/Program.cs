@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Fläche_eines_echtecks_berechnen
+namespace Flaeche_eines_Rechtecks_berechnen
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Fläche_eines_echtecks_berechnen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FlächeEinesRechtecksBenennen());
+            Application.Run(new Form1());
         }
     }
 }

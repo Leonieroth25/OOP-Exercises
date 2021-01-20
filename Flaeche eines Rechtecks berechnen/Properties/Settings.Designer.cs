@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fläche_eines_echtecks_berechnen.Properties
+namespace Flaeche_eines_Rechtecks_berechnen.Properties
 {
 
 
