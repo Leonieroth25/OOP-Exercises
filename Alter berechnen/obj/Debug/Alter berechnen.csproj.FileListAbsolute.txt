@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\bin\Debug\Alter berechnen.exe.config
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\bin\Debug\Alter berechnen.exe
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\bin\Debug\Alter berechnen.pdb
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter berechnen.csprojAssemblyReference.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter_berechnen.Form1.resources
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter_berechnen.Properties.Resources.resources
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter berechnen.csproj.GenerateResource.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter berechnen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter berechnen.exe
+C:\Users\vmadmin\Documents\OOP-Exercises\Alter berechnen\obj\Debug\Alter berechnen.pdb
