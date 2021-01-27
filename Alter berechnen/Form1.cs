@@ -22,11 +22,7 @@ namespace Alter_berechnen
         {
             DateTime birthDate = new DateTime();
 
-            if (DateTime.TryParse(txtAlter.Text, out birthDate) == false)
-            {
-                MessageBox.Show("Ungültige Eingabe: Datum erwartet.", "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
+            birthDate = dateTimePickerGeburtsdatum.Value;
             int diffInDays = (DateTime.Today - birthDate).Days;
             int diffInYears = DateTime.Today.Year - birthDate.Year;
             int diffInMonths = diffInYears * 12;

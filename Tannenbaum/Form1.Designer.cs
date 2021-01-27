@@ -91,16 +91,18 @@
             // 
             // btnTanneZeichnen
             // 
-            this.btnTanneZeichnen.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.btnTanneZeichnen.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTanneZeichnen.Location = new System.Drawing.Point(441, 149);
             this.btnTanneZeichnen.Name = "btnTanneZeichnen";
             this.btnTanneZeichnen.Size = new System.Drawing.Size(119, 31);
             this.btnTanneZeichnen.TabIndex = 6;
             this.btnTanneZeichnen.Text = "Tanne zeichnen";
             this.btnTanneZeichnen.UseVisualStyleBackColor = true;
+            this.btnTanneZeichnen.Click += new System.EventHandler(this.btnTanneZeichnen_Click);
             // 
             // txtTanne
             // 
+            this.txtTanne.Font = new System.Drawing.Font("Courier New", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTanne.Location = new System.Drawing.Point(67, 250);
             this.txtTanne.Multiline = true;
             this.txtTanne.Name = "txtTanne";

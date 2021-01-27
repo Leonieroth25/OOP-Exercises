@@ -58,13 +58,13 @@ namespace Tannenbaum
                 ZeichneZeile(KronenHoehe - i, 2 * i - 1);
         }
 
-        private void ZeichneZeile(int anfang, int breite)
+        private void ZeichneZeile(int positionErsterStern, int anzahlSterne)
         {
             int i;
-            for (i = 1; i <= anfang; ++i)
+            for (i = 1; i <= positionErsterStern; ++i)
                 _resultat += " ";
 
-            for (i = 1; i <= breite; ++i)
+            for (i = 1; i <= anzahlSterne; ++i)
                 _resultat += "*";
 
             _resultat += Environment.NewLine;

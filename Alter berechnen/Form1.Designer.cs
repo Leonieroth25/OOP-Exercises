@@ -34,12 +34,12 @@
             this.rbWochen = new System.Windows.Forms.RadioButton();
             this.rbTage = new System.Windows.Forms.RadioButton();
             this.gbEingabe = new System.Windows.Forms.GroupBox();
+            this.dateTimePickerGeburtsdatum = new System.Windows.Forms.DateTimePicker();
             this.lblGeburtsdatum = new System.Windows.Forms.Label();
             this.btnBerechnen = new System.Windows.Forms.Button();
             this.gbAusgabe = new System.Windows.Forms.GroupBox();
             this.lblAlter = new System.Windows.Forms.Label();
             this.txtAlter = new System.Windows.Forms.TextBox();
-            this.dateTimePickerGeburtsdatum = new System.Windows.Forms.DateTimePicker();
             this.gbEinheit.SuspendLayout();
             this.gbEingabe.SuspendLayout();
             this.gbAusgabe.SuspendLayout();
@@ -118,6 +118,13 @@
             this.gbEingabe.TabStop = false;
             this.gbEingabe.Text = "Eingabe";
             // 
+            // dateTimePickerGeburtsdatum
+            // 
+            this.dateTimePickerGeburtsdatum.Location = new System.Drawing.Point(121, 38);
+            this.dateTimePickerGeburtsdatum.Name = "dateTimePickerGeburtsdatum";
+            this.dateTimePickerGeburtsdatum.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePickerGeburtsdatum.TabIndex = 14;
+            // 
             // lblGeburtsdatum
             // 
             this.lblGeburtsdatum.AutoSize = true;
@@ -137,6 +144,7 @@
             this.btnBerechnen.TabIndex = 9;
             this.btnBerechnen.Text = "Berechnen";
             this.btnBerechnen.UseVisualStyleBackColor = true;
+            this.btnBerechnen.Click += new System.EventHandler(this.btnBerechnen_Click);
             // 
             // gbAusgabe
             // 
@@ -165,13 +173,6 @@
             this.txtAlter.Name = "txtAlter";
             this.txtAlter.Size = new System.Drawing.Size(200, 20);
             this.txtAlter.TabIndex = 7;
-            // 
-            // dateTimePickerGeburtsdatum
-            // 
-            this.dateTimePickerGeburtsdatum.Location = new System.Drawing.Point(121, 38);
-            this.dateTimePickerGeburtsdatum.Name = "dateTimePickerGeburtsdatum";
-            this.dateTimePickerGeburtsdatum.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePickerGeburtsdatum.TabIndex = 14;
             // 
             // Form1
             // 
